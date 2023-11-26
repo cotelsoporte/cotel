@@ -1,0 +1,16 @@
+body{
+    background: #FFA500;
+    background-image: url('cotel.jpg');
+}
+
+.card{
+    background: #FF8C00;
+    color: #FFF;
+}
+
+.table{
+    background: #ec9434;
+}
+
+
+

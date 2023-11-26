@@ -1,0 +1,26 @@
+body{
+    background-image: url('cotel.jpg');
+    background-size: 100%;
+}
+
+.card-header{
+    background:  #9B5A27;
+    color: #0e0604;
+}
+
+.card-body{
+    background: #6c543c;
+    color: #0e0604;
+}
+
+thead {
+    background: #9B5A27;
+    color:#000000;
+}
+
+tbody {
+    background: #ebb072;
+    color:#000000;
+}
+
+
