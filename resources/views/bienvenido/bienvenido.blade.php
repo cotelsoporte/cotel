@@ -27,7 +27,7 @@
 		<div id="body" class="home">
 			<div class="header">
 				<div>
-					<img src="{{ asset('bienvenido/images/satellite.png') }}" alt="" class="satellite">
+					<img src="{{ asset('bienvenido/images/login-2.png') }}" alt="" class="satellite">
 					<h1>SISTEMA DE INVENTARIO</h1>
 					<h2>COTEL-SOPORTE</h2>
 					
